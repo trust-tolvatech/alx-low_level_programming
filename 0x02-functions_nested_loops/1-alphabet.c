@@ -5,12 +5,12 @@
  *
  * Return: Always 0.
  */
-int main(void)
+void print_alphabet(void)
 {
-	char la;
+	char alphabet;
 
-	while (la <= 'z')
-		_putchar(la);
+	while (alphabet <= 'z')
+		_putchar(alphabet);
 
 	_putchar('\n');
 
