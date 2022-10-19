@@ -7,10 +7,10 @@
  */
 int main(void)
 {
-	char alphabet;
+	char la;
 
-	while (alphabet <= 'z')
-		_putchar(alphabet);
+	while (la <= 'z')
+		_putchar(la);
 
 	_putchar('\n');
 
