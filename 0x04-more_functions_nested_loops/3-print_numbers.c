@@ -1,6 +1,7 @@
 /**
  * print_numbers - prints numbers 1 to 9
  *
+ * Return: void
  */
 void print_numbers(void)
 {
