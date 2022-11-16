@@ -1,11 +1,11 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
- * main - fizz buzz test
+ * fizz_buzz - printing to 100
  *
  * Return: Always(0)
  */
-int main(void)
+void fizz_buzz(void)
 {
 	int n;
 
@@ -18,7 +18,7 @@ int main(void)
 		else if (n % 3 == 0)
 			printf(" Fizz");
 		else
-			printf(" %d ", n);
+			printf(" %d", n);
 	}
 	printf("\n");
 }
