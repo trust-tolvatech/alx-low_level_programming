@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - fizz buzz test 
- * Return: Always 0
+ * main - fizz buzz test
+ * Return: Always(0)
  */
 int main(void)
 {
